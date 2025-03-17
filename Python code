@@ -1,3 +1,4 @@
+#chatgpt ai
 def calculate_gpa(grades, credits):
     total_points = sum(grade * credit for grade, credit in zip(grades, credits))
     total_credits = sum(credits)
